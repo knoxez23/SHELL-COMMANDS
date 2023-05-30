@@ -1,0 +1,57 @@
+adduser: Command to add a user to the system.
+userdel: Command to delete a user from the system.
+usermod: Command to modify user account settings.
+passwd: Command to change a user's password.
+su: Command to switch to another user account.
+sudo: Command to execute a command with superuser privileges.
+visudo: Command to edit the sudoers file for configuring sudo access.
+groupadd: Command to add a new group to the system.
+groupdel: Command to delete a group from the system.
+groupmod: Command to modify group settings.
+id: Command to display user and group information.
+whoami: Command to display the current user.
+hostname: Command to display or set the system's hostname.
+uname: Command to display system information.
+df: Command to display disk space usage.
+du: Command to estimate file and directory space usage.
+free: Command to display memory usage.
+ps: Command to display currently running processes.
+top: Command to monitor system activity and processes in real-time.
+kill: Command to send signals to processes, terminating or controlling them.
+shutdown: Command to shut down or restart the system.
+reboot: Command to reboot the system.
+halt: Command to halt the system.
+ifconfig: Command to view and configure network interfaces.
+ip: Command to configure and manage IP addresses, routing, and network interfaces.
+netstat: Command to display network connection statistics.
+ss: Command to display socket statistics.
+route: Command to view and modify the IP routing table.
+arp: Command to manipulate the system's ARP cache.
+iwconfig: Command to configure wireless network interfaces.
+nmcli: Command-line interface for NetworkManager, used to manage network connections.
+systemctl: Command to manage system services and processes.
+service: Command to control system services.
+update-rc.d: Command to manage startup scripts.
+cron: Command to schedule tasks and automate processes.
+apt: Package management command to install, update, or remove software packages.
+dpkg: Package management command to handle individual .deb packages.
+apt-get: Older version of the apt command for package management.
+aptitude: An alternative to apt and apt-get for package management.
+apt-cache: Command to query the package cache and obtain information about available packages.
+apt-file: Command to search for files within packages.
+apt-mark: Command to manipulate the package selection and marking.
+gdebi: Command to install .deb packages and resolve dependencies.
+snap: Command to manage and install snap packages.
+tar: Command to create or extract compressed archive files.
+gzip: Command to compress files.
+gunzip: Command to decompress files.
+zip: Command to create or extract ZIP files.
+unzip: Command to extract files from a ZIP archive.
+find: Command to search for files and directories based on various criteria.
+locate: Command to find files by name quickly.
+grep: Command-line tool for searching text using patterns.
+sed: Command to process and transform text using patterns.
+awk: Command-line tool for text processing and data extraction.
+wc: Command to count lines, words, and characters in files.
+sort: Command to sort lines in text files.
+

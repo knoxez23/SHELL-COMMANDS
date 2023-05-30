@@ -1,0 +1,30 @@
+cd: Change directory.
+ls: List files and directories.
+pwd: Print working directory.
+mkdir: Create a directory.
+rm: Remove files and directories.
+cp: Copy files and directories.
+mv: Move or rename files and directories.
+cat: Concatenate and display file contents.
+echo: Print arguments to the standard output.
+grep: Search for patterns in files or output.
+find: Search for files and directories.
+chmod: Change file permissions.
+chown: Change file owner and group.
+history: View command history.
+clear: Clear the terminal screen.
+man: Display manual pages for commands.
+info: Display command information.
+ssh: Connect to a remote server using SSH.
+ping: Send ICMP echo requests to a network host.
+ifconfig: Display network interface configuration.
+netstat: Network statistics and connections.
+wget: Download files from the web.
+tar: Create or extract compressed archives.
+grep: Search for patterns in files.
+awk: Text processing and pattern matching.
+sed: Stream editor for text manipulation.
+top: Display system resource usage.
+kill: Terminate processes.
+ps: Display information about active processes.
+sudo: Execute a command with superuser privileges.
